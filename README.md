@@ -22,7 +22,7 @@ Run the SQL queries in `queries.sql` to:
 - Monitor hourly transaction volumes.
 
 ## Sample Output
-![Success Rate Query](images/success_rate.png)
+![Hourly Transaction Volume](images/hourly_volume.png)
 ![Failure Reasons Query](images/failure_reasons.png)
 
 ## Author
