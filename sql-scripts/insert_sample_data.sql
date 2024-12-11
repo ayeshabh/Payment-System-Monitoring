@@ -60,7 +60,7 @@ INSERT INTO transactions (amount, status, failure_reason) VALUES
 (1500.00, 'success', NULL);
 
 
-What This Covers:
-57 entries with diverse statuses (success, failure, pending).
-A variety of failure reasons: Insufficient Funds, Invalid Account, Expired Card, Network Error, etc.
-Realistic transaction amounts ranging from $25 to $1500.
+-- What This Covers:
+-- - 57 entries with diverse statuses (success, failure, pending).
+-- - A variety of failure reasons: Insufficient Funds, Invalid Account, Expired Card, Network Error, etc.
+-- - Realistic transaction amounts ranging from $25 to $1500.
